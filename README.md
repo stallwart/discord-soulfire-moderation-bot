@@ -1,2 +1,2 @@
 # discord-soulfire-moderation-bot
-eski moderasyon botum 30 star gelince paylaşılacak
+eski moderasyon botum 50 star gelince paylaşılacak
